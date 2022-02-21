@@ -7,7 +7,7 @@
 .cc_sidebar_head {
   margin-top: 60px;
   display: flex;
-  @media (max-width: 991px) {
+  @media (max-width: 991px) {  
     flex-direction: column;
     margin-top: 0;
     margin-bottom: 20px;
@@ -146,7 +146,7 @@
   }
 }
 .cc_section_heads {
-  background: url(/assets/images/coins-bg.svg) 13% -17% no-repeat;
+  background: url(../images/coins-bg.svg) 13% -17% no-repeat;
   background-size: contain;
   padding: 100px 0;
   border-bottom: 1px solid rgba(155, 155, 155, 0.365);
@@ -271,7 +271,7 @@
   }
 }
 .cc_footer-heads {
-  background: $color-dark4 url(/assets/images/bg-contact.png) 0 100% no-repeat;
+  background: $color-dark4 url(../images/bg-contact.png) 0 100% no-repeat;
 }
 
 .img-circle {
@@ -526,7 +526,7 @@
 }
 
 .cc_form_heads {
-  background: url(/assets/images/coins-bg.svg) 13% -17% no-repeat;
+  background: url(../images/coins-bg.svg) 13% -17% no-repeat;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-column-gap: 24px;

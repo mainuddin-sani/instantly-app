@@ -84,10 +84,10 @@
 /**color Variable**/
 /**Font Size & Font Family**/
 body {
-  background: #142c8e url(/assets/images/Asset-1bg1-1.png) 0 9% no-repeat; }
+  background: #142c8e url(../images/Asset-1bg1-1.png) 0 9% no-repeat; }
   @media (max-width: 1440px) {
     body {
-      background: #142c8e url(/assets/images/Asset-1bg1-1.png) 0 31% no-repeat; } }
+      background: #142c8e url(../images/Asset-1bg1-1.png) 0 31% no-repeat; } }
 
 h1,
 h2,
@@ -922,7 +922,7 @@ button {
     border-bottom: 1px dashed #185fd7; }
 
 .cc_section_heads {
-  background: url(/assets/images/coins-bg.svg) 13% -17% no-repeat;
+  background: url(../images/coins-bg.svg) 13% -17% no-repeat;
   background-size: contain;
   padding: 100px 0;
   border-bottom: 1px solid rgba(155, 155, 155, 0.365); }
@@ -1024,7 +1024,7 @@ button {
     background-position: 0 100%; }
 
 .cc_footer-heads {
-  background: #2b2b37 url(/assets/images/bg-contact.png) 0 100% no-repeat; }
+  background: #2b2b37 url(../images/bg-contact.png) 0 100% no-repeat; }
 
 .img-circle {
   position: fixed;
@@ -1238,7 +1238,7 @@ button {
   width: 318px !important; }
 
 .cc_form_heads {
-  background: url(/assets/images/coins-bg.svg) 13% -17% no-repeat;
+  background: url(../images/coins-bg.svg) 13% -17% no-repeat;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-column-gap: 24px; }
